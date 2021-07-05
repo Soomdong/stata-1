@@ -1,0 +1,8 @@
+v 3
+d Jay Jeong's ado files
+d acubens555@gmail.com
+d https://github.com/jayjeo/stata
+
+d 'github': search, install, and manage github packages
+
+p github
