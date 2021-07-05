@@ -1,3 +1,0 @@
-v 3
-d Program to count observations by group
-p unique [The unique.ado program for counting observations by group]
